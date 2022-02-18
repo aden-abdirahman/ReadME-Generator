@@ -78,32 +78,32 @@ const fs = require('fs');
     email
 })=> {
 
-    const ReadMeTemplate = `# ${title}
-    ![License](https://img.shields.io/static/v1?label=License&message=${license}&color=green&style=plastic)
+const ReadMeTemplate = `# ${title}
+![License](https://img.shields.io/static/v1?label=License&message=${license}&color=blueviolet&style=plastic)
 
-    ### Table of contents:
-    *[Description](#description)
-    *[Installation](#installation)
-    *[Usage](#usage)
-    *[Contributors](#contributors)
-    *[Test](#test)
-    *[Questions?](#Questions)
-    ## Description
-    ${description}
-    ## Installation
-    To run this program you need the following packages: ${installation}
-    ## Usage
-    Example of how to use this program: ${usage}
-    ## License
-    This project is licensed under: ${license}
-    ## Contributors
-    ${contributors}
-    ## Test
-    To test, run the following command: ${test}
+## Table of contents:
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contributors](#contributors)
+* [Test](#test)
+* [Questions?](#Questions)
+### Description:
+${description}
+### Installation:
+To run this program you need the following packages: ${installation}
+### Usage:
+Example of how to use this program: ${usage}
+### License:
+This project is licensed under: ${license}
+### Contributors:
+${contributors}
+### Test:
+To test, run the following command: ${test}
 
-    ## Questions?
-    If you have any questions contact ${name} on [Github](https://github.com/${github})\n
-     or [Email](https://${email})`
+### Questions?:
+If you have any questions contact ${name} on [Github](https://github.com/${github}
+or [Email](https://${email})`
 
     createNewFile('ReadMe.md', ReadMeTemplate);
 
