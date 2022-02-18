@@ -87,7 +87,7 @@ const ReadMeTemplate = `# ${title}
 * [Usage](#usage)
 * [Contributors](#contributors)
 * [Test](#test)
-* [Questions?](#Questions)
+* [Questions?](#Questions?)
 ### Description:
 ${description}
 ### Installation:
