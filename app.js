@@ -82,13 +82,12 @@ const fs = require('fs');
     [license](https://img.shields.io/static/v1?label=License&message=${license}&color=blueviolet&style=plastic)
 
     ## Table of contents:
-    *[description](#description)
-    *[installation](#installation)
-    *[usage](#usage)
-    *[contributors](#contributors)
-    *[test](#test)
-    *[github](#github)
-    *[email](#email)
+    *[Description](#description)
+    *[Installation](#installation)
+    *[Usage](#usage)
+    *[Contributors](#contributors)
+    *[Test](#test)
+    *[Questions?](#Questions)
     ### Description
     ${description}
     ### Installation
