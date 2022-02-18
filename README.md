@@ -11,10 +11,10 @@
   ### Description:
   This is a program that creates a ReadMe file for your use based on a template i created!
   
-  Screenshots of running program: 
+  Screenshots of running program: ![](images/Screenshot1.png) ![](images/Screenshot2.png)
   
   ### Installation:
-  To run this program you need the following packages: To run this program you need the following packages: The only thing you need to run this program is node       package manager!
+  To run this program you need the following packages: The only thing you need to run this program is node package manager!
   ### Usage:
   Example of how to use this program: You can find my project on my github page and clone it to your local computer for your personal use
   ### License:
