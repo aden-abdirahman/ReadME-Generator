@@ -1,6 +1,9 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 
+
+// question prompts to get user input
+
   inquirer.prompt(
     [ 
         {
@@ -78,6 +81,8 @@ const fs = require('fs');
     email
 })=> {
 
+//     creating layout of Readme page
+    
 const ReadMeTemplate = `# ${title}
 ![License](https://img.shields.io/static/v1?label=License&message=${license}&color=blueviolet&style=plastic)
 
@@ -105,10 +110,13 @@ To test, run the following command: ${test}
 If you have any questions contact ${name} on [Github](https://github.com/${github}
 or [Email](https://${email})`
 
+// using the createNewFile function and passing the data through it
+
     createNewFile('ReadMe.md', ReadMeTemplate);
 
 });
 
+//function that takes a filename and data as parameters and uses those to write a file 
 
 function createNewFile(fileName, data) {
     fs.writeFile(fileName, data, (err) => {
