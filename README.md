@@ -1,8 +1,8 @@
 # ReadMe Generator
 
-    [license](https://img.shields.io/static/v1?label=License&message=MIT&color=blueviolet&style=plastic)
+    ![license](https://img.shields.io/static/v1?label=License&message=MIT&color=blueviolet&style=plastic)
 
-    ## Table of contents:
+    ### Table of contents:
     *[description](#description)
     *[installation](#installation)
     *[usage](#usage)
@@ -10,7 +10,7 @@
     *[test](#test)
     *[github](#github)
     *[email](#email)
-    ### Description
+    ## Description
     This is a program that creates a ReadMe file for your use based on a template i created!
 
     Screenshot of running program:
@@ -27,4 +27,4 @@
 
     ## Questions?
     If you have any questions contact Abdirahman on [Github](https://github.com/aden-abdirahman)
-    or at aden.abdirahman45@gmail.com
+    or at [email](aden.abdirahman45@gmail.com)
