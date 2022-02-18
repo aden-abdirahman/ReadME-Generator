@@ -79,7 +79,7 @@ const fs = require('fs');
 })=> {
 
     const ReadMeTemplate = `# ${title}
-    [license](https://img.shields.io/static/v1?label=License&message=${license}&color=green&style=plastic)
+    ![License](https://img.shields.io/static/v1?label=License&message=${license}&color=green&style=plastic)
 
     ## Table of contents:
     *[Description](#description)
@@ -103,7 +103,7 @@ const fs = require('fs');
 
     ### Questions?
     If you have any questions contact ${name} on [Github](https://github.com/${github})\n
-     or at https://${email}`
+     or [Email](https://${email})`
 
     createNewFile('ReadMe.md', ReadMeTemplate);
 
