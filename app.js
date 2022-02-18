@@ -81,27 +81,27 @@ const fs = require('fs');
     const ReadMeTemplate = `# ${title}
     ![License](https://img.shields.io/static/v1?label=License&message=${license}&color=green&style=plastic)
 
-    ## Table of contents:
+    ### Table of contents:
     *[Description](#description)
     *[Installation](#installation)
     *[Usage](#usage)
     *[Contributors](#contributors)
     *[Test](#test)
     *[Questions?](#Questions)
-    ### Description
+    ## Description
     ${description}
-    ### Installation
+    ## Installation
     To run this program you need the following packages: ${installation}
-    ### Usage
+    ## Usage
     Example of how to use this program: ${usage}
-    ### License
+    ## License
     This project is licensed under: ${license}
-    ### Contributors
+    ## Contributors
     ${contributors}
-    ### Test
+    ## Test
     To test, run the following command: ${test}
 
-    ### Questions?
+    ## Questions?
     If you have any questions contact ${name} on [Github](https://github.com/${github})\n
      or [Email](https://${email})`
 
