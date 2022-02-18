@@ -7,7 +7,7 @@
  * [Usage](#usage)
  * [Contributors](#contributors)
  * [Test](#test)
- * [Questions](#Questions)
+ * [Questions](#questions)
   ### Description:
   This is a program that creates a ReadMe file for your use based on a template i created!
   
