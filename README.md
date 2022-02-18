@@ -1,6 +1,6 @@
 # ReadMe Generator
 
-    [license](https://img.shields.io/static/v1?label=License&message=Apache 2.0&color=blueviolet&style=plastic)
+    [license](https://img.shields.io/static/v1?label=License&message=MIT&color=blueviolet&style=plastic)
 
     ## Table of contents:
     *[description](#description)
