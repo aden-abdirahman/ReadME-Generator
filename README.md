@@ -14,17 +14,17 @@
     This is a program that creates a ReadMe file for your use based on a template i created!
 
     Screenshot of running program:
-    ### Installation
+    ## Installation
     To run this program you need the following packages: The only thing you need to run this program is node package manager!
-    ### Usage
+    ## Usage
     Example of how to use this program: You can find my project on my github page and clone it to your local computer for your personal use
-    ### License
+    ## License
     This project is licensed under: MIT
-    ### Contributors
+    ## Contributors
     Abdirahman
-    ### Test
+    ## Test
     To test, run the following command: N/A
 
-    ### Questions?
+    ## Questions?
     If you have any questions contact Abdirahman on [Github](https://github.com/aden-abdirahman)
     or at aden.abdirahman45@gmail.com

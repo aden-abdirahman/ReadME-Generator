@@ -79,7 +79,7 @@ const fs = require('fs');
 })=> {
 
     const ReadMeTemplate = `# ${title}
-    [license](https://img.shields.io/static/v1?label=License&message=${license}&color=blueviolet&style=plastic)
+    [license](https://img.shields.io/static/v1?label=License&message=${license}&color=green&style=plastic)
 
     ## Table of contents:
     *[Description](#description)
