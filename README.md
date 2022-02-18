@@ -22,7 +22,7 @@
   ### Contributors:
   Abdirahman
   ### Test:
-  To test, run the following command: N/A
+  To test, run the following command: run 'node app.js' in your terminal or gitbash in the directory that holds my project! you would have to clone it into your       local computer first!
 
   ### Questions:
   If you have any questions contact Abdirahman on [Github](https://github.com/aden-abdirahman)
