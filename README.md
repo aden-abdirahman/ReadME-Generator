@@ -27,3 +27,5 @@
   ### Questions:
   If you have any questions contact Abdirahman on [Github](https://github.com/aden-abdirahman)
   or [Email](https://aden.abdirahman45@gmail.com)
+  
+  Link to a video walthrough of the program: https://drive.google.com/file/d/1rD663YLebxPPYgjDTjodmzoSut5dG0jD/view?usp=sharing
